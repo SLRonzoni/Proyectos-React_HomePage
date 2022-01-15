@@ -1,0 +1,23 @@
+h2{
+    font-size: 20px;
+  }
+   
+  .linkProyecto{
+    width: 8%;
+    font-size: 10px;
+    margin-left:90%;
+  }
+    
+  
+  p{
+    color: black;
+    font-size: 13px;
+  }
+
+  .card-body{
+    box-shadow: 0 0 1rem rgb(182, 189, 173) inset; 
+  }
+
+  .card-body:hover{
+    box-shadow: 0 0 0.3rem rgb(38, 56, 247) inset;
+  }

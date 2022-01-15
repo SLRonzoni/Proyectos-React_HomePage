@@ -1,0 +1,34 @@
+.text-center{
+    margin-left:0%;
+    margin-top: 60px;
+    font-size: 15px;
+}
+
+h3{
+    margin: 10px;
+    font-size: 20px;
+}    
+
+.Colbadge-base{
+    border: 1px solid rgb(223, 224, 221);
+    border-radius: 10px;
+    box-shadow: 0 0 0.3rem rgb(182, 189, 173) inset;
+    margin: 15px;
+    width: 400px;
+}
+
+#tarjeta{
+    margin-left: 126%;
+    margin-top:10px; 
+}
+
+.linkGit{
+    background-color: white;
+    color:black;
+    font-size: 15px;
+    margin-left: 5%;
+}
+
+.Colbadge-linkedin{
+    margin-left: 500px;
+}

@@ -1,0 +1,17 @@
+*{
+    font-family: 'Merienda', cursive;
+}
+
+.menu {
+    background-color:rgb(38, 56, 247); 
+}
+
+.menu a {
+    color:white !important;
+}
+
+.sombra:hover{
+    color:rgb(38, 56, 247) !important;
+    background-color: aliceblue;
+    box-shadow: 0 0 0.3rem rgb(38, 56, 247) inset;
+  }

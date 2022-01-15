@@ -1,0 +1,31 @@
+h1 {
+    font-size: 50px;
+    color:white;
+}
+
+.p {
+    color: white;
+}
+
+p{
+    color:black;
+}
+
+.icon {
+    height: 100px;
+    width: 100px;
+    margin-left:50%;
+    margin-top:2%;
+    border: 1px solid rgb(38, 56, 247);
+}
+
+header {
+    background-color: grey;
+    padding: 30px 0;
+}
+
+.texto-intro {
+    border: 1px solid rgb(38, 56, 247);
+    text-align:center;
+    color:white;
+}
